@@ -25,7 +25,7 @@ Deve receber agumentos tanto nomeados, quanto posicionais
 #### Operação de cadastro de cliente (Função criar_usuario):
 Deve armazanar os usuários em lista. Um usuário é composto por 'nome', 'data_nascimento', 'endereço' e 'cpf'
 Não é possível cadastrar dois usuários com o mesmo CPF
-O 'endereço' e 'cpf' serão em formato String: "Logradouro, nº - Bairro - Cidade/UF" e "somente nmúeros", respectivamente
+O 'endereço' e 'cpf' serão em formato String: "Logradouro, nº - Bairro - Cidade/UF" e "somente nmúeros", respectivamente 
 
 #### Operação de cadastro de conta bancária (Função criar_conta):
 Será uma função vinculada ao usuário (utilização de filtro por CPF informado) e composto por:
